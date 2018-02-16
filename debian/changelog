@@ -1,4 +1,22 @@
-pipes (2.0.0) uecide; urgency=low
+libdisplaycore-font-pipes (2.0.3) uecide; urgency=low
+
+  * Added preview images
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Mon, 4 Sep 2017 00:16:00 +0100
+
+libdisplaycore-font-pipes (2.0.2) uecide; urgency=low
+
+  * Added missing description
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sat, 19 Aug 2017 12:34:29 +0100
+
+libdisplaycore-font-pipes (2.0.1) uecide; urgency=low
+
+  * Added build files
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Thu, 17 Aug 2017 17:30:36 +0100
+
+libdisplaycore-font-pipes (2.0.0) uecide; urgency=low
 
   * Initial import
 
