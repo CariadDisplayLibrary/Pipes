@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: Pipes.h
-Description: Pipes font for DisplayCore
+Description: Pipes
