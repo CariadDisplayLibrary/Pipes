@@ -1,2 +1,4 @@
-Pipes.cpp libraries/DisplayCore/Pipes
-Pipes.h libraries/DisplayCore/Pipes
+library.json libraries/DisplayCore/Pipes
+library.properties libraries/DisplayCore/Pipes
+README.md libraries/DisplayCore/Pipes
+src libraries/DisplayCore/Pipes
