@@ -1,7 +1,7 @@
 #ifndef _PIPES_H
 #define _PIPES_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t Pipes[];

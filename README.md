@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::Pipes 
 
-![Pipes](https://raw.githubusercontent.com/DisplayCore/Pipes/master/Preview/Pipes.png)
+![Pipes](https://raw.githubusercontent.com/Cariad/Pipes/master/Preview/Pipes.png)
 
